@@ -19,7 +19,7 @@ df.tail()
 df=df['field','field']
 df head()
 
-df=iloc[1:5,:5]
+df.iloc[1:5,:5]
 
 plt.plot(df('field'),label='')
 
